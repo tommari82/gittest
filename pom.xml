@@ -3,7 +3,7 @@
 	<groupId>cz.tmsoft.gittest</groupId>
 	<artifactId>gittest</artifactId>
 	<packaging>pom</packaging>
-	<version>1.1-SNAPSHOT</version>
+	<version>1.2</version>
     <modules>
         <module>gittest-gui</module>
     </modules>
